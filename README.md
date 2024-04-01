@@ -11,3 +11,4 @@ JavaScriptQuestions
  reduce and sending 0 at some thing intersting research it 
 ## 4.checkTrianlgeType 
 ## 5.Sort an Array
+## 6.isPalindrome or not
