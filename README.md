@@ -10,3 +10,4 @@ JavaScriptQuestions
 ## 3.Count Occurrences of Character
  reduce and sending 0 at some thing intersting research it 
 ## 4.checkTrianlgeType 
+## 5.Sort an Array
