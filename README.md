@@ -12,3 +12,4 @@ JavaScriptQuestions
 ## 4.checkTrianlgeType 
 ## 5.Sort an Array
 ## 6.isPalindrome or not
+## 7.findMax in array
