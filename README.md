@@ -13,3 +13,4 @@ JavaScriptQuestions
 ## 5.Sort an Array
 ## 6.isPalindrome or not
 ## 7.findMax in array
+## 8.Factorial Finder
