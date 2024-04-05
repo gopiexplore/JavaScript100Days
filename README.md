@@ -16,3 +16,4 @@ JavaScriptQuestions
 ## 8.Factorial Finder
 ## 9.Calculate The Average
 ## 10.Arrays are Equal 
+Every method is interesting find it 
