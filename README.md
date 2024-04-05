@@ -15,3 +15,4 @@ JavaScriptQuestions
 ## 7.findMax in array
 ## 8.Factorial Finder
 ## 9.Calculate The Average
+## 10.Arrays are Equal 
