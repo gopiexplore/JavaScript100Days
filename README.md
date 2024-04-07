@@ -18,3 +18,5 @@ JavaScriptQuestions
 ## 10.Arrays are Equal 
 Every method is interesting find it 
 ## 11.Sum of Digits
+## 12.Remove Duplicate Elements
+ set object 
