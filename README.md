@@ -20,3 +20,5 @@ Every method is interesting find it
 ## 11.Sum of Digits
 ## 12.Remove Duplicate Elements
  set object 
+ ## 13. Count Vowels
+  includes method
