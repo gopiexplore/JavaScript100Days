@@ -22,3 +22,4 @@ Every method is interesting find it
  set object 
  ## 13. Count Vowels
   includes method
+  ## 14.is Power of To
