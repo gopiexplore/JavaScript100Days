@@ -24,3 +24,4 @@ Every method is interesting find it
   includes method
   ## 14.is Power of To
   ## 15 sumOfSquares
+  ## 16 Minimum Value in Array
