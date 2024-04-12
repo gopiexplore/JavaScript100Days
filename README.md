@@ -23,5 +23,7 @@ Every method is interesting find it
  ## 13. Count Vowels
   includes method
   ## 14.is Power of To
-  ## 15 sumOfSquares
-  ## 16 Minimum Value in Array
+  ## 15.sumOfSquares
+  ## 16.Minimum Value in Array
+  ## 17.to CamelCase
+  
