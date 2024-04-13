@@ -26,4 +26,5 @@ Every method is interesting find it
   ## 15.sumOfSquares
   ## 16.Minimum Value in Array
   ## 17.to CamelCase
+  ## 18. is uppercase or lowercase
   
