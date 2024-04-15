@@ -28,4 +28,5 @@ Every method is interesting find it
   ## 17.to CamelCase
   ## 18. is uppercase or lowercase
   ## 19.Check if a given string starts with a specific substring
+  ## 20.Reverse a string without using any built in methods or libraries 
   
