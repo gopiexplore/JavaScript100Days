@@ -31,3 +31,4 @@ Every method is interesting find it
   ## 20.Reverse a string without using any built in methods or libraries 
   ## 21.CalculateMean
   ## 22.Median
+  ## 23.Count Occurrences of each element in an array
