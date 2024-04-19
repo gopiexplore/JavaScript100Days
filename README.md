@@ -32,3 +32,5 @@ Every method is interesting find it
   ## 21.CalculateMean
   ## 22.Median
   ## 23.Count Occurrences of each element in an array
+  ## 24. Mode
+  
