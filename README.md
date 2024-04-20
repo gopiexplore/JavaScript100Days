@@ -33,4 +33,5 @@ Every method is interesting find it
   ## 22.Median
   ## 23.Count Occurrences of each element in an array
   ## 24. Mode
+  ## 25.factorial using recursion
   
