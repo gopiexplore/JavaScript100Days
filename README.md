@@ -34,4 +34,6 @@ Every method is interesting find it
   ## 23.Count Occurrences of each element in an array
   ## 24. Mode
   ## 25.factorial using recursion
+  ## 26.nth Fibonacci number using Recursion
+  
   
