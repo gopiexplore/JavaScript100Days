@@ -35,5 +35,6 @@ Every method is interesting find it
   ## 24. Mode
   ## 25.factorial using recursion
   ## 26.nth Fibonacci number using Recursion
-  
+  ## 27.Reapeat a String 
+  ## 28.Truncate a String
   
