@@ -37,4 +37,4 @@ Every method is interesting find it
   ## 26.nth Fibonacci number using Recursion
   ## 27.Reapeat a String 
   ## 28.Truncate a String
-  
+  ## 29.Number Range Generator
