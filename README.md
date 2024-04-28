@@ -39,3 +39,4 @@ Every method is interesting find it
   ## 28.Truncate a String
   ## 29.Number Range Generator
   ## 30 Recursive Number Range Generator
+  ## 31 Password validataion
