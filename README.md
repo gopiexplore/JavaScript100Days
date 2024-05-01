@@ -43,3 +43,4 @@ Every method is interesting find it
   ## 32 Image Filters usgin Event Delegation
 ## 33 Random Hex Color Generator
 ## 34.Remove Duplicates From Array 
+## 35.Check Object Emptiness
