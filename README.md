@@ -45,3 +45,4 @@ Every method is interesting find it
 ## 34.Remove Duplicates From Array 
 ## 35.Check Object Emptiness
 ## 36.Convert Object to Array and Vice Verasa
+## 37.Simple Interest Calc
