@@ -47,3 +47,4 @@ Every method is interesting find it
 ## 36.Convert Object to Array and Vice Verasa
 ## 37.Simple Interest Calc
 ## 38.Number of Days Between Two Dates
+## 39.Calculate Age from BirthDate
