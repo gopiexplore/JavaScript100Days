@@ -48,3 +48,4 @@ Every method is interesting find it
 ## 37.Simple Interest Calc
 ## 38.Number of Days Between Two Dates
 ## 39.Calculate Age from BirthDate
+## 40.Simple Bar Chart From Array Data
