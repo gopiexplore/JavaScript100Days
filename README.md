@@ -56,3 +56,4 @@ Every method is interesting find it
 ## 45 .Password validate using regex
 ## 46.Validate mobile number
 ## 47.Extract Numbers from a string 
+## 48.validate Hex color code 
