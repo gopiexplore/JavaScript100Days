@@ -52,4 +52,5 @@ Every method is interesting find it
 ## 41.Simple Currency Converter
 ## 42.Credit Card Validatation
 ## 43.FizzBuzz Challenge
-## 44 Regular Expressions
+## 44 Regular Expressions email validate
+## 45 .Password validate using regex
