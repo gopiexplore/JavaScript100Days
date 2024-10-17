@@ -2,7 +2,7 @@
 // contains the same elements in the same order and false otherwise
 
 const arraysAreEqual=(arr1,arr2)=>{
-    if(arr1.lenght!==arr2.lenght){
+    if(arr1.length!==arr2.length){
         return false;
     }
     
